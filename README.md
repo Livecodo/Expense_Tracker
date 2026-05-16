@@ -155,20 +155,6 @@ and begin managing your finances.
 
 ---
 
-# 📸 Preview
-
-## 🏠 Homepage
-
-<img width="100%" alt="Finance Tracker" src="https://images.openai.com/static-rsc-4/nvS5t_6H0ajLPq-ZbDW9TCbQ444gnfbRVB4JXZOE5Yvi9la-E0Mpfw0V1_4Aceu9tKDhnNVjPHtxzLDrrPU4ZBPIAmgbjuFK-dWLALYtWBYvbjS-mTuTmLrmG3P_kr_DAKloQngI4KF2rMf5J20oh-9-krEvcnvSNX5hzlKo1KM69vBM3bEorINhUn2Jahor?purpose=fullsize">
-
----
-
-## 💵 Expense Tracker
-
-<img width="100%" alt="Expense Tracker" src="https://images.openai.com/static-rsc-4/otQExIEorKcZ-oyFb5as1bBxc8V8RJrOcCaczgYi-XjqKceTENXNG26y0rsAh0ikCQJW3rXMzotUVXogUF8wqUR83dyH3hAVYz-GyNUKMJWBrtFgrAWry7-SKjMnA1EGMfHZTLWJONBTJTR-TC6eQNQjddB0ffoAQHrjytzUn1Cdjc9BLusxq7Azu4b1DbBG?purpose=fullsize">
-
----
-
 # 🔮 Future Improvements
 
 - 📦 Local Storage Support
